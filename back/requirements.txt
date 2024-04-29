@@ -1,0 +1,10 @@
+Django>=4.2.6
+djangorestframework>=3.14.0
+django-cors-headers
+django-filter>=23.5
+faiss-cpu>=1.7.4
+mistralai>=0.0.12*
+requests>=2.31.0
+numpy>=1.23.1
+
+                       

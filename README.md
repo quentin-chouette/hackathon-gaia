@@ -4,6 +4,8 @@
 
 2 - move files into folder back/gaia
 
-3 - run 
+3 - run
+```
 pip install requirements.txt
 python manage.py runserver
+```
